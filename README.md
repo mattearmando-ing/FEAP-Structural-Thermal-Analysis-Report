@@ -69,7 +69,7 @@ The analyses follow a systematic approach:
 ## 📄 Full Report
 
 For a complete description of the mathematical formulations, convergence studies, and detailed results for each problem, please refer to the  
-[Full Project Report](https://cdn.jsdelivr.net/gh/mattearmando-ing/[nome-repository]@main/FEAP_Structural_Thermal_Analysis_Report.pdf)
+[Full Project Report](https://cdn.jsdelivr.net/gh/mattearmando-ing/FEAP-Structural-Thermal-Analysis-Report@main/FEAP_Structural_Thermal_Analysis_Report.pdf)
 
 ---
 
